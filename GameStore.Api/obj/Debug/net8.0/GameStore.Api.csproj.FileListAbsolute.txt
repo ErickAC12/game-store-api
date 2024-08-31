@@ -1,5 +1,4 @@
 d:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.Development.json
-d:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.json
 d:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.exe
 d:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.deps.json
 d:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.runtimeconfig.json
@@ -125,3 +124,4 @@ D:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\ru\Microsoft
 D:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\xd\all-projects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.json
