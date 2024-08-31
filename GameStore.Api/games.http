@@ -19,7 +19,6 @@ PUT http://localhost:5038/games/5
 Content-Type: application/json
 
 {
-    "name": "Street Fighter II Turbo",
     "genre": "Fighting",
     "price": 9.99,
     "releaseDate": "1991-02-01"
